@@ -1,5 +1,5 @@
 # ZOMATO_DATA_ANALYSIS
-DOwnload the datasets from the following link : https://drive.google.com/open?id=11o7bcgydEMRyY6ZyNJ82zyKKwTeFdT_j
+Download the datasets from the following link : https://drive.google.com/open?id=11o7bcgydEMRyY6ZyNJ82zyKKwTeFdT_j
 
 ## Problem Statement
 The basic idea of analysing the Zomato dataset is to get a fair idea about the factors affecting the
